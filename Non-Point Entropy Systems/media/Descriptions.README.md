@@ -20,7 +20,7 @@ Base 10 and base 12 convergence dynamics in 256 bit space. For all graphs blue i
 
 ###### Fig 3
 
-Base 10 and base negative 3, all 51 flush rates over laid. Even though the distributions dont over lap the base's show systematic coupling. Base -3's structure is modulating in response to base 10's position.
+Base 10 and base negative 3, all 51 flush rates over laid.
 
 
 
@@ -34,5 +34,5 @@ Stable "orbital" dynamics in dual negative base 4. For all the graphs one base -
 
 ###### Fig. 5
 
-This is from a comprehensive multi base test. Bases 10 and -2 were put through multiple sweeps in multiple configurations. This is all the flush\_rates from sweep 3 over laid.  Base -2 was locked at flush 3 while base 10 ascends. Even though base -2 has set parameters it shows modulation based on 10's position. While base 10 has deficits at base 2's boundaries, which are visible as the shorter curves at 2, 4, 8, 16, 32, 64, and 128. Regardless of whether or not they have over lapping distributions they show bi directional coupling. 
+This is from a comprehensive multi base test. Bases 10 and -2 were put through multiple sweeps in multiple configurations. This is all the flush\_rates from sweep 3 over laid.  Base -2 was locked at flush 3 while base 10 ascends. Even though base -2 has set parameters it shows modulation based on 10's position. 
 
